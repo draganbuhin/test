@@ -179,4 +179,6 @@ $helper->logWrite($writer, $filename, $callStartTime);
 
 echo "test";
 
+echo "from web";
+
 ?>
