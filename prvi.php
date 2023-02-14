@@ -11,6 +11,8 @@ for ($i = 1; $i <= 100; $i++) {
     echo $var."<br>";
 }
 
-echo "kraj"
+echo "kraj";
+
+echo "novi početak";
 
 ?>
