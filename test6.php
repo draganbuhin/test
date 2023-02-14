@@ -177,4 +177,6 @@ $callStartTime = microtime(true);
 $writer->save($filename);
 $helper->logWrite($writer, $filename, $callStartTime);
 
+echo "test";
+
 ?>
