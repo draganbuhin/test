@@ -181,4 +181,6 @@ echo "test";
 
 echo "from web";
 
+echo "from web2";
+
 ?>
